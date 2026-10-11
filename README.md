@@ -83,9 +83,8 @@ Activities included preparing a requirements list, identifying open questions, d
 
 | Requirements and Planning | Concept Development |
 |---|---|
-| ![Requirements and planning](<img width="1297" height="492" alt="Anforderungsliste" src="https://github.com/user-attachments/assets/7c59eb42-216a-4940-b68c-a88da61a62cc" />) | ![Concept development](<img width="445" height="317" alt="morphologischer Kasten" src="https://github.com/user-attachments/assets/d4d2f1f1-c328-4cc6-9d68-f4a83aa9104d" />) |
+| <img width="1297" height="492" alt="Anforderungsliste" src="https://github.com/user-attachments/assets/ad6c97e3-6116-4ae5-ae95-cb2e8ede2889" /> | <img width="890" height="634" alt="morphologischer Kasten" src="https://github.com/user-attachments/assets/0389505e-fde3-4914-a82d-04c211fc5d07" /> |
 
-<img width="1297" height="492" alt="Anforderungsliste" src="https://github.com/user-attachments/assets/0f3a2a52-7f3c-4df8-a8ab-b5b7844a86ce" />
 
 ### 2. CAD Design in CATIA V5 📐
 
@@ -93,17 +92,13 @@ CATIA V5 was used to develop the locomotive's mechanical components and their in
 
 The design process considered the available packaging space, component mounting, manufacturability, assembly requirements, and the integration of the mechanical and electrical subsystems.
 
-| Complete CAD Assembly | Housing Design |
-|---|---|
-| ![Complete CAD assembly](images/full_cad_assembly.png) | ![Housing CAD](images/my_design/housing_cad.png) |
-| *Insert an isometric view of the complete locomotive assembly.* | *Insert your housing model, showing the body geometry and internal packaging.* |
+| Housing Design |
+|---|
+|<img width="1263" height="304" alt="Gehäuse CAD Optik" src="https://github.com/user-attachments/assets/b997bfd0-adb8-41c1-ab91-e7794e743c11" />|
 
 | Chassis Design | Coupling Design |
 |---|---|
-| ![Chassis CAD](images/my_design/chassis_cad.png) | ![Coupling CAD](images/my_design/coupling_cad.png) |
-| *Insert your chassis or base plate model, highlighting mounting interfaces.* | *Insert your coupling model, showing its geometry and attachment points.* |
-
-**My primary design focus:** The housing, chassis, and coupling.
+| <img width="1085" height="900" alt="chassis CAD" src="https://github.com/user-attachments/assets/2449f8d8-b846-448a-933a-f6dac587330f" />| <img width="1276" height="848" alt="coupling CAD" src="https://github.com/user-attachments/assets/e5ae8e94-fe38-41c8-a34d-907a8febfa98" />|
 
 The complete assembly also incorporated components developed by other team members, including the wheels and gearbox.
 
@@ -111,10 +106,9 @@ The complete assembly also incorporated components developed by other team membe
 
 The locomotive required several mechanical subsystems to function together within a compact assembly.
 
-| Gearbox and Transmission | Wheels and Running Gear |
+| Gearbox and Transmission | Wheels  |
 |---|---|
-| ![Gearbox](images/team_project/gearbox.png) | ![Wheels](images/team_project/wheels.png) |
-| *Insert the gearbox CAD model or transmission assembly.* | *Insert the wheel design or running gear.* |
+| <img width="916" height="736" alt="gear CAD" src="https://github.com/user-attachments/assets/dfb65966-6b87-412a-b869-2f7127dfd642" /> | <img width="728" height="852" alt="Wheel CAD" src="https://github.com/user-attachments/assets/9a983a83-2e45-44ef-b2cb-eaa99aadb3e6" /> |
 
 The engineering work covered motor speed, transmission ratio, gear geometry, wheel design, coupling interfaces, chassis packaging, and mounting provisions.
 
@@ -131,8 +125,6 @@ The slicing process translated the 3D geometry into manufacturing instructions, 
 | ![CAD export](images/cad_export.png) | ![Cura slicing](images/cura_slicing.png) |
 | *Insert a screenshot of the component in CATIA V5 or the exported STL.* | *Insert a Cura screenshot showing the model on the build plate and its slicing preview.* |
 
-**My contribution:** I prepared components for 3D printing using Ultimaker Cura, helping translate the CAD designs into printable parts.
-
 The objective was to produce components that could be manufactured and assembled while accounting for geometric constraints, printability, dimensional accuracy, and material usage.
 
 The specific slicing parameters should be documented alongside the corresponding parts where available.
@@ -147,8 +139,7 @@ These observations informed subsequent design refinements.
 
 | 3D-Printed Components | Prototype Iterations |
 |---|---|
-| ![Printed components](images/printed_components.jpg) | ![Prototype iterations](images/my_design/prototype_iterations.jpg) |
-| *Insert photographs of the printed housing, chassis, coupling, or other components.* | *Insert photographs showing an early prototype and the improved version.* |
+| <img width="1372" height="915" alt="printed gears" src="https://github.com/user-attachments/assets/0ebb2dd9-be88-41a8-8fb5-8cd8489711a3" /> | <img width="1280" height="848" alt="printed whole train" src="https://github.com/user-attachments/assets/f97edc1c-33c2-4753-9038-bffa1ef42e22" /> |
 
 The iterative process demonstrated the importance of validating CAD designs against physical manufacturing and assembly conditions.
 
@@ -162,74 +153,9 @@ Mechanical packaging was important to ensure that the motor, gearbox, battery, a
 
 | Internal Assembly | Final Assembled Locomotive |
 |---|---|
-| ![Internal assembly](images/internal_assembly.jpg) | ![Final locomotive](images/final_locomotive.jpg) |
-| *Insert a photograph showing the motor, battery, gearbox, and internal layout.* | *Insert a photograph of the completed locomotive.* |
-
-### 7. Testing and Evaluation 🧪
-
-The completed prototype was considered in terms of its assembly, mechanical behaviour, and practical operation.
-
-The project report addressed:
-
-- Curve-running behaviour.
-- Tipping stability.
-- Assembly and component fit.
-- Manufacturing costs.
-- Component lifetime.
-- Recycling and material considerations.
-
-| Curve-Running Test | Stability and Validation |
-|---|---|
-| ![Curve test](images/curve_testing.jpg) | ![Stability test](images/stability_testing.jpg) |
-| *Insert a photograph or documented result from curve testing.* | *Insert a photograph or documented result from stability testing.* |
-
-Quantitative results, such as minimum curve radius, operating speed, tipping angle, and total manufacturing cost, can be added when supported by actual measurements.
+| <img width="1132" height="852" alt="internal layout" src="https://github.com/user-attachments/assets/b7c7a03e-5d5d-48a8-bc37-0a4aa81c381d" /> | <img width="1280" height="960" alt="printed side view" src="https://github.com/user-attachments/assets/51f2fbc6-843b-49c2-b327-d8ce9cef6bf0" /> |
 
 ---
-
-## 📂 Repository Structure
-
-```text
-3d-printed-electric-locomotive/
-├── README.md
-├── images/
-│   ├── requirements.png
-│   ├── concept_development.png
-│   ├── full_cad_assembly.png
-│   ├── cad_export.png
-│   ├── cura_slicing.png
-│   ├── printed_components.jpg
-│   ├── internal_assembly.jpg
-│   ├── final_locomotive.jpg
-│   ├── curve_testing.jpg
-│   ├── stability_testing.jpg
-│   ├── my_design/
-│   │   ├── housing_cad.png
-│   │   ├── chassis_cad.png
-│   │   ├── coupling_cad.png
-│   │   └── prototype_iterations.jpg
-│   └── team_project/
-│       ├── gearbox.png
-│       └── wheels.png
-├── cad/
-│   ├── assembly/
-│   ├── housing/
-│   ├── chassis/
-│   ├── coupling/
-│   ├── gearbox/
-│   └── wheels/
-├── manufacturing/
-│   ├── stl/
-│   └── print_settings.md
-├── engineering/
-│   ├── housing_and_chassis.md
-│   ├── coupling_design.md
-│   └── prototype_improvements.md
-└── docs/
-    └── project_report.pdf
-```
-
-This structure is a template. Include only the directories and files you actually have, and replace the example image filenames in the README with your real filenames.
 
 ## 📈 Key Engineering Takeaways
 
@@ -244,7 +170,6 @@ Key topics included:
 - Identifying manufacturing and dimensional issues through prototypes.
 - Refining designs based on physical assembly.
 - Considering performance, cost, component lifetime, and recyclability.
-
 
 
 ## 👥 Project Team
